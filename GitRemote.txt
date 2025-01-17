@@ -1,0 +1,10 @@
+# steps to follow for setup of github account and push.
+
+1. Make Github account
+2. Make Empty Repo
+3.Local System
+	a. git config --global user.name "arshadakhtar25"
+	b. git config --global user.email ""
+4. git push -u origin master
+	a. generate personal access token
+	b. setup for username and token as password 
